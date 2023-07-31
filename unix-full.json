@@ -1,0 +1,500 @@
+{
+  "settings": {
+    "nodeAttribs": [],
+    "edgeAttribs": [],
+    "curvedEdges": false,
+    "appliedForce": true,
+    "forceRadius": 300
+  },
+  "nodes": [
+    {
+      "name": "**EOF**",
+      "type": "*",
+      "x": 952.9009101920681,
+      "y": 700.5283590714687,
+      "attribs": []
+    },
+    {
+      "name": "**SOF**",
+      "type": "*",
+      "x": 867.7843736660404,
+      "y": 337.1747089775147,
+      "attribs": []
+    },
+    {
+      "name": "ls",
+      "type": "*",
+      "x": 1282.151499167151,
+      "y": 659.5641588795645,
+      "attribs": []
+    },
+    {
+      "name": "vi",
+      "type": "*",
+      "x": 1219.5073580614896,
+      "y": 962.1475549625777,
+      "attribs": []
+    },
+    {
+      "name": "exit",
+      "type": "*",
+      "x": 941.8534471441245,
+      "y": 783.7987233087184,
+      "attribs": []
+    },
+    {
+      "name": "elm",
+      "type": "*",
+      "x": 776.0409904441378,
+      "y": 555.697366006481,
+      "attribs": []
+    },
+    {
+      "name": "man",
+      "type": "*",
+      "x": 1188.4325632727923,
+      "y": 387.2394243165269,
+      "attribs": []
+    },
+    {
+      "name": "fg",
+      "type": "*",
+      "x": 693.0604700078893,
+      "y": 576.2461889284175,
+      "attribs": []
+    },
+    {
+      "name": "finger",
+      "type": "*",
+      "x": 550.0091750902009,
+      "y": 319.395401461511,
+      "attribs": []
+    },
+    {
+      "name": "|",
+      "type": "*",
+      "x": 996.2297079454631,
+      "y": 247.0998726719935,
+      "attribs": []
+    },
+    {
+      "name": "more",
+      "type": "*",
+      "x": 1068.275020040597,
+      "y": 428.30272310518643,
+      "attribs": []
+    },
+    {
+      "name": "cd",
+      "type": "*",
+      "x": 1183.9857100912745,
+      "y": 868.6681470173146,
+      "attribs": []
+    },
+    {
+      "name": "date",
+      "type": "*",
+      "x": 676.1780618139212,
+      "y": 614.5604604080186,
+      "attribs": []
+    },
+    {
+      "name": "cat",
+      "type": "*",
+      "x": 1020.4719840610658,
+      "y": 1151.8505288840531,
+      "attribs": []
+    },
+    {
+      "name": "rm",
+      "type": "*",
+      "x": 1038.7835696317668,
+      "y": 873.4520988707234,
+      "attribs": []
+    },
+    {
+      "name": "uptime",
+      "type": "*",
+      "x": 450.73219074274056,
+      "y": 618.3420194033673,
+      "attribs": []
+    },
+    {
+      "name": "grep",
+      "type": "*",
+      "x": 879.5706772579948,
+      "y": 6.9339496956893765,
+      "attribs": []
+    },
+    {
+      "name": "mv",
+      "type": "*",
+      "x": 1591.096133724249,
+      "y": 572.4193783222725,
+      "attribs": []
+    },
+    {
+      "name": "ll",
+      "type": "*",
+      "x": 1140.9538930208437,
+      "y": 1144.3296472664745,
+      "attribs": []
+    },
+    {
+      "name": "cls",
+      "type": "*",
+      "x": 1491.3057201215074,
+      "y": 448.70043071140316,
+      "attribs": []
+    },
+    {
+      "name": "lp",
+      "type": "*",
+      "x": 388.6024026272258,
+      "y": 979.3833098145008,
+      "attribs": []
+    },
+    {
+      "name": "-dmsl21",
+      "type": "*",
+      "x": 176.79985873179754,
+      "y": 811.932772641802,
+      "attribs": []
+    },
+    {
+      "name": "lpq",
+      "type": "*",
+      "x": 172.25424004636395,
+      "y": 505.96653700334554,
+      "attribs": []
+    },
+    {
+      "name": "-Pmsl21",
+      "type": "*",
+      "x": 224.51164911601046,
+      "y": 264.0462749389047,
+      "attribs": []
+    },
+    {
+      "name": "alias",
+      "type": "*",
+      "x": 703.1401890139493,
+      "y": 354.0696529489245,
+      "attribs": []
+    },
+    {
+      "name": "cp",
+      "type": "*",
+      "x": 1515.460770556881,
+      "y": 884.3813821601457,
+      "attribs": []
+    },
+    {
+      "name": "rlogin",
+      "type": "*",
+      "x": 697.6310810015698,
+      "y": 977.9621489988646,
+      "attribs": []
+    },
+    {
+      "name": "ftp",
+      "type": "*",
+      "x": 1311.55867823659,
+      "y": 339.9140097803066,
+      "attribs": []
+    },
+    {
+      "name": "ps",
+      "type": "*",
+      "x": 1188.1487388183564,
+      "y": 70.21570001638595,
+      "attribs": []
+    },
+    {
+      "name": "-aux",
+      "type": "*",
+      "x": 1062.496900500412,
+      "y": 186.20111085465172,
+      "attribs": []
+    },
+    {
+      "name": "kill",
+      "type": "*",
+      "x": 682.488708434459,
+      "y": 127.43165741097711,
+      "attribs": []
+    },
+    {
+      "name": "mail",
+      "type": "*",
+      "x": 820.7434056049833,
+      "y": 502.7856313745769,
+      "attribs": []
+    },
+    {
+      "name": "-l",
+      "type": "*",
+      "x": 423.08825255121957,
+      "y": 805.9091474368989,
+      "attribs": []
+    },
+    {
+      "name": "-f",
+      "type": "*",
+      "x": 897.7847312409789,
+      "y": 872.8797594187074,
+      "attribs": []
+    },
+    {
+      "name": "quota",
+      "type": "*",
+      "x": 1013.9270595291465,
+      "y": 537.0935761678328,
+      "attribs": []
+    },
+    {
+      "name": "-v",
+      "type": "*",
+      "x": 984.1273133332871,
+      "y": 625.1899729537535,
+      "attribs": []
+    }
+  ],
+  "edges": [
+    {
+      "name": "0.46",
+      "sourceNodeNum": 1,
+      "targetNodeNum": 5
+    },
+    {
+      "name": "0.28",
+      "sourceNodeNum": 2,
+      "targetNodeNum": 11
+    },
+    {
+      "name": "0.22",
+      "sourceNodeNum": 3,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.15",
+      "sourceNodeNum": 3,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "0.97",
+      "sourceNodeNum": 4,
+      "targetNodeNum": 0
+    },
+    {
+      "name": "0.31",
+      "sourceNodeNum": 5,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "0.16",
+      "sourceNodeNum": 5,
+      "targetNodeNum": 8
+    },
+    {
+      "name": "0.29",
+      "sourceNodeNum": 6,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.27",
+      "sourceNodeNum": 7,
+      "targetNodeNum": 8
+    },
+    {
+      "name": "0.17",
+      "sourceNodeNum": 7,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "0.41",
+      "sourceNodeNum": 8,
+      "targetNodeNum": 8
+    },
+    {
+      "name": "0.60",
+      "sourceNodeNum": 9,
+      "targetNodeNum": 10
+    },
+    {
+      "name": "0.36",
+      "sourceNodeNum": 9,
+      "targetNodeNum": 16
+    },
+    {
+      "name": "0.2",
+      "sourceNodeNum": 10,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.68",
+      "sourceNodeNum": 11,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.18",
+      "sourceNodeNum": 12,
+      "targetNodeNum": 8
+    },
+    {
+      "name": "0.20",
+      "sourceNodeNum": 12,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "0.32",
+      "sourceNodeNum": 13,
+      "targetNodeNum": 14
+    },
+    {
+      "name": "0.16",
+      "sourceNodeNum": 13,
+      "targetNodeNum": 11
+    },
+    {
+      "name": "0.17",
+      "sourceNodeNum": 14,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.2",
+      "sourceNodeNum": 15,
+      "targetNodeNum": 8
+    },
+    {
+      "name": "0.2",
+      "sourceNodeNum": 16,
+      "targetNodeNum": 28
+    },
+    {
+      "name": "0.48",
+      "sourceNodeNum": 16,
+      "targetNodeNum": 30
+    },
+    {
+      "name": "0.18",
+      "sourceNodeNum": 17,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.21",
+      "sourceNodeNum": 17,
+      "targetNodeNum": 25
+    },
+    {
+      "name": "0.32",
+      "sourceNodeNum": 18,
+      "targetNodeNum": 11
+    },
+    {
+      "name": "0.26",
+      "sourceNodeNum": 19,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.35",
+      "sourceNodeNum": 20,
+      "targetNodeNum": 21
+    },
+    {
+      "name": "0.23",
+      "sourceNodeNum": 21,
+      "targetNodeNum": 22
+    },
+    {
+      "name": "0.29",
+      "sourceNodeNum": 22,
+      "targetNodeNum": 23
+    },
+    {
+      "name": "0.56",
+      "sourceNodeNum": 23,
+      "targetNodeNum": 22
+    },
+    {
+      "name": "0.30",
+      "sourceNodeNum": 24,
+      "targetNodeNum": 24
+    },
+    {
+      "name": "0.21",
+      "sourceNodeNum": 24,
+      "targetNodeNum": 9
+    },
+    {
+      "name": "0.23",
+      "sourceNodeNum": 25,
+      "targetNodeNum": 3
+    },
+    {
+      "name": "0.17",
+      "sourceNodeNum": 25,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.15",
+      "sourceNodeNum": 25,
+      "targetNodeNum": 17
+    },
+    {
+      "name": "0.21",
+      "sourceNodeNum": 26,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "0.17",
+      "sourceNodeNum": 26,
+      "targetNodeNum": 32
+    },
+    {
+      "name": "0.18",
+      "sourceNodeNum": 27,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.68",
+      "sourceNodeNum": 28,
+      "targetNodeNum": 29
+    },
+    {
+      "name": "0.95",
+      "sourceNodeNum": 29,
+      "targetNodeNum": 9
+    },
+    {
+      "name": "0.16",
+      "sourceNodeNum": 31,
+      "targetNodeNum": 8
+    },
+    {
+      "name": "0.23",
+      "sourceNodeNum": 31,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "0.78",
+      "sourceNodeNum": 33,
+      "targetNodeNum": 14
+    },
+    {
+      "name": "0.94",
+      "sourceNodeNum": 34,
+      "targetNodeNum": 35
+    },
+    {
+      "name": "0.25",
+      "sourceNodeNum": 35,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "0.2",
+      "sourceNodeNum": 35,
+      "targetNodeNum": 11
+    }
+  ]
+}

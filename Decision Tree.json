@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "nodeAttribs": [],
+    "edgeAttribs": [],
+    "curvedEdges": false,
+    "appliedForce": false,
+    "forceRadius": 300
+  },
+  "nodes": [
+    {
+      "name": "input",
+      "type": "+",
+      "x": 952.561983907765,
+      "y": 63.10694450170305,
+      "attribs": []
+    },
+    {
+      "name": "    i = i + 1",
+      "type": "+",
+      "x": 1011.9146424596023,
+      "y": 631.1422224054481,
+      "attribs": []
+    },
+    {
+      "name": "output true",
+      "type": "+",
+      "x": 1212.027261399248,
+      "y": 839.0773410358989,
+      "attribs": []
+    },
+    {
+      "name": "n % i == 0",
+      "type": "◇",
+      "x": 1010.4539286155978,
+      "y": 502.0500748301546,
+      "attribs": []
+    },
+    {
+      "name": "input < 2",
+      "type": "◇",
+      "x": 950.2252378792914,
+      "y": 185.24460325967294,
+      "attribs": []
+    },
+    {
+      "name": "output false",
+      "type": "+",
+      "x": 1140.6410343256223,
+      "y": 354.043236282668,
+      "attribs": []
+    },
+    {
+      "name": "i = 2",
+      "type": "+",
+      "x": 652.433452444755,
+      "y": 509.0921427687998,
+      "attribs": []
+    },
+    {
+      "name": ".                      i >= input",
+      "type": "◇",
+      "x": 780.8111508149173,
+      "y": 760.3583329897818,
+      "attribs": []
+    }
+  ],
+  "edges": [
+    {
+      "name": "",
+      "sourceNodeNum": 0,
+      "targetNodeNum": 4
+    },
+    {
+      "name": "",
+      "sourceNodeNum": 1,
+      "targetNodeNum": 7
+    },
+    {
+      "name": "false",
+      "sourceNodeNum": 3,
+      "targetNodeNum": 1
+    },
+    {
+      "name": "true",
+      "sourceNodeNum": 3,
+      "targetNodeNum": 5
+    },
+    {
+      "name": "true",
+      "sourceNodeNum": 4,
+      "targetNodeNum": 5
+    },
+    {
+      "name": "false",
+      "sourceNodeNum": 4,
+      "targetNodeNum": 6
+    },
+    {
+      "name": "",
+      "sourceNodeNum": 6,
+      "targetNodeNum": 7
+    },
+    {
+      "name": "true",
+      "sourceNodeNum": 7,
+      "targetNodeNum": 2
+    },
+    {
+      "name": "false",
+      "sourceNodeNum": 7,
+      "targetNodeNum": 3
+    }
+  ]
+}

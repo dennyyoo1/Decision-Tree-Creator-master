@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: sans-serif;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #FEFEFE;
+}
+
+p{ 
+     text-align: center; 
+     overflow: overlay;
+     position: relative;
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.innerButton{
+    border: none;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 0.3em;
+}
+
+.linkButton{
+    border: none;
+    height: 1.5em;
+    border-radius: 0.3em;
+}
+
+#menu{
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    border: 2px solid #ABACAB;
+    padding: 1em;
+}
+#instructions{
+    text-align: center;
+    border: 1px solid #ABACAB;
+    border-radius: 5px;
+    padding: 0.3em;
+}
+
+#toolbox{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 2px solid #ABACAB;
+    border-radius: 5px;
+    padding: 1em;
+    z-index: 5;
+    text-align: center;
+}
+#toolbox input:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+#type{
+    text-align:center;
+}
+#info{
+    color: #ABACAB;
+    padding: 0.5em;
+    text-align: right;
+}
+#info input{
+    color: #ABACAB;
+}
+#buttons input{
+    width: 30px;
+    opacity: 0.4;
+    transition: 0.1s;
+}
+#buttons input:hover{
+    opacity: 0.9;
+}
+#attribInfo{
+    border: 1px solid #ABACAB;
+    border-radius: 5px;
+    padding: 0.3em;
+}
+#attribInfo:hover{
+    background-color: #ABACAB;
+    color: #273043;
+}
+#edgeInfo{
+    border: 1px solid #ABACAB;
+    border-radius: 5px;
+    padding: 0.3em;
+}
+
+#hidden-file-upload{
+    display: none;
+}
+
+marker{
+    fill: #ABACAB;
+}
+
+g.node text{
+    fill: #273043;
+}
+g.node circle{
+    fill: #FEFEFE;
+    stroke: #273043;
+    stroke-width: 2px;
+}
+g.node:hover text{
+    fill: #ABACAB;
+}
+g.node:hover circle{
+    stroke: #ABACAB;
+}
+g.selected #type{
+    fill: #FEFEFE;
+}
+g.selected circle{
+    fill: #ABACAB;
+}
+
+g.edge path{
+    stroke: #ABACAB;
+    stroke-width: 3px;
+}
+g.edge text{
+    fill: #273043;
+}
+g.highlighted path{
+    stroke: #ABACAB;
+}
+g.highlighted text{
+    fill: #ABACAB;
+}

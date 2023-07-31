@@ -1,0 +1,36 @@
+{
+"settings":{
+    "nodeAttribs":[],
+    "edgeAttribs":[],
+    "curvedEdges":false,
+    "appliedForce":false,
+    "forceRadius":300
+    },
+"nodes":[
+    {"name":"Stapler","type":"◇","x":653.7836570296067,"y":274.61132562473244,"attribs":[]},
+    {"name":"Hole Punch","type":"◇","x":437.9037839619209,"y":552.4473507773009,"attribs":[]},
+    {"name":"Staples","type":"◇","x":654,"y":435,"attribs":[]},
+    {"name":"Mechanical Pencil","type":"◇","x":844,"y":550,"attribs":[]},
+    {"name":"Shredder","type":"◇","x":289.1225412595992,"y":834.9572946640367,"attribs":[]},
+    {"name":"Paper","type":"◇","x":471,"y":663,"attribs":[]},
+    {"name":"Staple Remover","type":"◇","x":677,"y":557,"attribs":[]},
+    {"name":"Ruler","type":"◇","x":710.521352667982,"y":860.0553276717148,"attribs":[]},
+    {"name":"Eraser","type":"◇","x":926,"y":707,"attribs":[]},
+    {"name":"Pencil Lead","type":"◇","x":984,"y":635,"attribs":[]},
+    {"name":"Tape","type":"◇","x":605.3067213587886,"y":801.2454507289888,"attribs":[]}
+    ],
+"edges":[
+    {"name":"0.15","sourceNodeNum":0,"targetNodeNum":1},
+    {"name":"0.7","sourceNodeNum":0,"targetNodeNum":2},
+    {"name":"0.15","sourceNodeNum":0,"targetNodeNum":3},
+    {"name":"0.8","sourceNodeNum":1,"targetNodeNum":5},
+    {"name":"0.2","sourceNodeNum":1,"targetNodeNum":4},
+    {"name":"0.15","sourceNodeNum":2,"targetNodeNum":10},
+    {"name":"0.65","sourceNodeNum":2,"targetNodeNum":6},
+    {"name":"0.2","sourceNodeNum":2,"targetNodeNum":5},
+    {"name":"0.4","sourceNodeNum":3,"targetNodeNum":9},
+    {"name":"0.3","sourceNodeNum":3,"targetNodeNum":8},
+    {"name":"0.15","sourceNodeNum":3,"targetNodeNum":7},
+    {"name":"0.15","sourceNodeNum":3,"targetNodeNum":10}
+    ]
+}
